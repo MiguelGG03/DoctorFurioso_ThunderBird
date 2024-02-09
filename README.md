@@ -34,3 +34,7 @@ Estos correos documentan una interacción que comienza con un incidente de amnes
 ## Código para sacar la matrícula
 
 ![Código scraper_matricula.py](imgs/code1.png)
+
+## Código para sacar el color del coche
+
+![Código scraper_color.py](imgs/code2.png)
