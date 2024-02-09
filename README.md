@@ -30,3 +30,7 @@ Mr. Furioso ha tenido una serie de interacciones y eventos documentados en los c
 Estos correos documentan una interacción que comienza con un incidente de amnesia que lleva a Mr. Furioso a solicitar ayuda para encontrar su automóvil en un estacionamiento, seguido por comunicaciones sobre pagos pendientes y daños al vehículo, culminando con Mr. Furioso proporcionando la información requerida y expresando su descontento con el servicio recibido.
 
 (sacado del chatGPT)
+
+## Código para sacar la matrícula
+
+![Código scraper_matricula.py](imgs/code1.png)
