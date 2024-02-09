@@ -17,4 +17,3 @@ with open('thundebird\ccnsqul8.default\Mail\pop-mail.outlook.com\Inbox') as file
     for matricula in matriculas_encontradas:
         print(matricula)
 
-    
