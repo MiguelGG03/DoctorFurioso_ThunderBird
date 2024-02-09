@@ -20,3 +20,5 @@ Mr. Furioso ha tenido una serie de interacciones y eventos documentados en los c
 5. **Correos electrónicos adicionales**: Se mencionan correos electrónicos adicionales, uno de los cuales parece ser un correo de marketing no relacionado, y otro que contiene un recibo, reiterando la necesidad de pago por parte de Mr. Furioso.
 
 Estos correos documentan una interacción que comienza con un incidente de amnesia que lleva a Mr. Furioso a solicitar ayuda para encontrar su automóvil en un estacionamiento, seguido por comunicaciones sobre pagos pendientes y daños al vehículo, culminando con Mr. Furioso proporcionando la información requerida y expresando su descontento con el servicio recibido.
+
+(sacado del chatGPT)
