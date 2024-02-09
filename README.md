@@ -1,6 +1,8 @@
 # DoctorFurioso_ThunderBird
 
-Matricula, Color , Modelo y que le ha pasado al Doctor Furioso
+Integrantes, Nacho Pedrero y Miguel González
+
+El enlace al repositorio es el siguente: [https://github.com/MiguelGG03/DoctorFurioso_ThunderBird.git](https://github.com/MiguelGG03/DoctorFurioso_ThunderBird.git)
 
 ## Matricula
 
